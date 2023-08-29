@@ -29,6 +29,7 @@
   "author": "KenStack Team",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "cli-color": "^2.0.3",
     "countries-and-timezones": "^3.4.1",
     "dayjs": "^1.11.7",
@@ -42,6 +43,7 @@
   },
   "devDependencies": {
     "@semantic-release/git": "^10.0.1",
+    "@types/bcryptjs": "^2.4.2",
     "@types/cli-color": "^2.0.2",
     "@types/countries-and-timezones": "^3.2.3",
     "@types/jest": "^29.5.4",
