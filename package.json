@@ -1,6 +1,6 @@
 {
   "name": "@hasurify/util",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Hasurify Util Library",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
